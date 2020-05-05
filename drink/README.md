@@ -37,6 +37,7 @@ IAP(Consumable)
 
 - 유저 목록이나 마커를 클릭하면 유저 상세정보가 나타남
 
+
 <br><strong>채팅설명</strong>
 
 - 실시간 1대1 채팅 구현
@@ -47,7 +48,8 @@ IAP(Consumable)
 
 - 채팅방 목록은 최신 채팅이 있는 채팅방이 상단으로 가도록 구현
 
-<strong>유저 프로필 설명</strong>
+
+<br><strong>유저 프로필 설명</strong>
 
 - 사진을 등록/추가/변경시 관리자에게 알림이 가게되고 관리자의 승인이 난 후 사진등록이 되도록 구현
 
@@ -80,7 +82,7 @@ IAP(Consumable)
 
   차단을 하면 차단한 상대방과 서로 모든 정보를 볼 수 없게 실시간으로 처리 
   
-<b><big>UI ScreenShot</b></big>
+<br><b><big>UI ScreenShot</b></big>
 ------
 
 
