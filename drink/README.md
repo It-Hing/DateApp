@@ -1,9 +1,10 @@
 # DateApp
+
 <b><big>프로젝트 소개</b></big>
+======
 
 기존에 출시된 소개팅 앱과 다른 위치기반 소개팅 앱
 실제 출시를 통한 앱창업도전
-
 사용 기술
 
 SWIFT, autolayout을 통한 ui구성, push(백그라운드, 포그라운드)
@@ -79,7 +80,9 @@ IAP(Consumable)
   차단을 하면 차단한 상대방과 서로 모든 정보를 볼 수 없게 실시간으로 처리 
   
 <b><big>UI ScreenShot</b></big>
-  
+======
+
+
 회원가입
 
 <img src="https://user-images.githubusercontent.com/61533510/81061005-8ca29200-8f0e-11ea-8e11-8c5474120ef6.png"></img>
