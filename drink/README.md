@@ -86,3 +86,9 @@ IAP(Consumable)
 
   차단을 하면 차단한 상대방과 서로 모든 정보를 볼 수 없게 실시간으로 처리 
   
+회원가입 UI
+<img src="https://user-images.githubusercontent.com/61533510/81061005-8ca29200-8f0e-11ea-8e11-8c5474120ef6.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/61533510/81061011-90361900-8f0e-11ea-88c0-daad692c8509.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/61533510/81061020-93310980-8f0e-11ea-93d2-297b6dc4e91f.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/61533510/81061024-95936380-8f0e-11ea-9966-d24950d52852.png" width="90%"></img>
+
