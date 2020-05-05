@@ -80,7 +80,7 @@ IAP(Consumable)
 
   차단을 하면 차단한 상대방과 서로 모든 정보를 볼 수 없게 실시간으로 처리 
   
-<b><big>UI</b></big>
+<b><big>UI ScreenShot</b></big>
   
 회원가입
 
