@@ -86,7 +86,9 @@ IAP(Consumable)
 
   차단을 하면 차단한 상대방과 서로 모든 정보를 볼 수 없게 실시간으로 처리 
   
-회원가입 UI
+UI
+  
+회원가입
 
 <img src="https://user-images.githubusercontent.com/61533510/81061005-8ca29200-8f0e-11ea-8e11-8c5474120ef6.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81061011-90361900-8f0e-11ea-88c0-daad692c8509.png"></img>
@@ -117,17 +119,20 @@ IAP(Consumable)
 <img src="https://user-images.githubusercontent.com/61533510/81062245-9af1ad80-8f10-11ea-9713-7700c5ce4046.png"></img>
 
 채팅
+
 <img src="https://user-images.githubusercontent.com/61533510/81062263-a1802500-8f10-11ea-98c0-c06e99a82181.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062270-a3e27f00-8f10-11ea-8b23-70544c27991b.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062280-a5ac4280-8f10-11ea-88e2-c06f49db7cdc.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062285-a7760600-8f10-11ea-9750-58abed426bfd.png"></img>
 
 상대방 프로필
+
 <img src="https://user-images.githubusercontent.com/61533510/81062403-d68c7780-8f10-11ea-8fb6-4bbf0b52de3e.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062407-d8563b00-8f10-11ea-9cd3-24ac8dfd06c3.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062409-da1ffe80-8f10-11ea-9dcb-a006d7ba0272.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062413-dc825880-8f10-11ea-8d2a-dfc8a20710d6.png"></img>
 
 AppConnect
+
 <img src="https://user-images.githubusercontent.com/61533510/81062380-cd9ba600-8f10-11ea-9354-64977527ccbb.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81062389-cffe0000-8f10-11ea-9fb8-8127a2779c26.png"></img>
