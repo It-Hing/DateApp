@@ -1,4 +1,4 @@
-# DateApp - 
+# DateApp - 오늘뭐해
 
 <b><big>프로젝트 소개</b></big>
 ------
