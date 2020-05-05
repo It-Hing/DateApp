@@ -6,7 +6,7 @@
 기존에 출시된 소개팅 앱과 다른 위치기반 소개팅 앱
 실제 출시를 통한 앱창업도전
 
-<strong>사용 기술</strong>
+<br><strong>사용 기술</strong>
 
 SWIFT, autolayout을 통한 ui구성, push(백그라운드, 포그라운드)
 
@@ -27,7 +27,7 @@ IAP(Consumable)
 인앱 결제 
 
 
-<strong>지도설명</strong>
+<br><strong>지도설명</strong>
 
 - 가까운 사람끼리 클러스터를 형성하여 원으로 나타내며 원안에 사람수를 표시
 
@@ -37,7 +37,7 @@ IAP(Consumable)
 
 - 유저 목록이나 마커를 클릭하면 유저 상세정보가 나타남
 
-<strong>채팅설명</strong>
+<br><strong>채팅설명</strong>
 
 - 실시간 1대1 채팅 구현
 
@@ -54,7 +54,7 @@ IAP(Consumable)
 - 사진이 승인이 되지 않은 경우 미리 설정된 기본 이미지가 나타나도록 구현
 
 
-<strong>설정 목록</strong>
+<br><strong>설정 목록</strong>
 
 - 푸시설정
 
