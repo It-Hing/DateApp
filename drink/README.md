@@ -99,7 +99,7 @@ IAP(Consumable)
 
 <img src="https://user-images.githubusercontent.com/61533510/81061966-3898ad00-8f10-11ea-9d95-be47da99f62c.png"></img>
 <img src="https://user-images.githubusercontent.com/61533510/81061978-3a627080-8f10-11ea-800b-8a4dfbf2f560.png"></img>
-<img src="https://user-images.githubusercontent.com/61533510/81063130-3b949d00-8f12-11ea-97ad-a8995e506475.png" width="19.5%"></img>
+<img src="https://user-images.githubusercontent.com/61533510/81063130-3b949d00-8f12-11ea-97ad-a8995e506475.png" width="19.3%"></img>
 
 
 
