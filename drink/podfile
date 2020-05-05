@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'drink' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for drink
+  
+  target 'drinkTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'drinkUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+  
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Database'
+  pod 'ObjectMapper'
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'Kingfisher'
+  pod 'Alamofire'
+  pod 'SwiftKeychainWrapper'
+end
