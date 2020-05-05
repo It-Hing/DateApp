@@ -16,7 +16,7 @@ Google CloudFlatForm(GoogleMap)
 
 IAP(Consumable)
 
-<strong>핵심 기능</strong>
+<br><strong>핵심 기능</strong>
 
 회원가입/로그인
 
