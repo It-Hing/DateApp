@@ -103,4 +103,4 @@ IAP(Consumable)
 
 <상대방프로필화면>
 
-<img src="https://user-images.githubusercontent.com/61533510/81063130-3b949d00-8f12-11ea-97ad-a8995e506475.png"></img>
+<img src="https://user-images.githubusercontent.com/61533510/81063130-3b949d00-8f12-11ea-97ad-a8995e506475.png" width="10%></img>
