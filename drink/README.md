@@ -16,6 +16,8 @@ Google CloudFlatForm(GoogleMap)
 
 IAP(Consumable)
 
+Alamofire
+
 <br><strong>핵심 기능</strong>
 
 회원가입/로그인
